@@ -1,2 +1,2 @@
 # data-structure
-Insertion sorting
+1.Insertion sorting
